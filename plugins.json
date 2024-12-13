@@ -1,0 +1,14 @@
+[
+  {
+    "id": "nf-workdir-size",
+    "releases": [
+        {
+          "version": "0.1.0",
+          "date": "2024-12-12T16:30:56.869372-05:00",
+          "url": "https://github.com/FloWuenne/nextflorian_plugins/nf-workdir-size/nf-workdir-size-0.1.0.zip",
+          "sha512sum": "b468be7bed7bfe4282f9504780a4e747d91927be47e655e27680ab0fcdc6b4879a1daede8a3b114886552775c57390cf7db3167575a151871fd99f8f3779387e",
+          "requires": ">=24.01.0-edge"
+        }
+    ]
+  }
+]
